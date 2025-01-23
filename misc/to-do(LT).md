@@ -1,0 +1,7 @@
+- start contributing in open source (try tinygrad and fail)
+- look for a non time consuming internship
+- create some good projects
+- little bit of dsa
+- study ai maths book
+- look for a japanese summer school
+- reach N1

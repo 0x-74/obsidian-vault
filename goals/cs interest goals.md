@@ -1,0 +1,9 @@
+- explore react native
+- do the meta ar and vr courses
+- learn to use openGL or an graphics framework along with SDL
+- learn babylon.js and three.js better
+- get into unity and learn C#
+- learn shader development(start with minecraft preferably)
+- get okayish at web dev do pedro course on react and learn next
+- make a few emulators
+- complete beej's networking guide

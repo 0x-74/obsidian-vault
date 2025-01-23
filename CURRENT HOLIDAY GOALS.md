@@ -1,0 +1,10 @@
+- [ ] N3 Japanese atleast
+- [ ] German proficiency certain level (LOOK)
+- [ ] 1 Kaggle competition
+- [ ] https://learn.unity.com & https://catlikecoding.com/unity/tutorials/
+- [ ] FINISH https://0x-74.netlify.app/resources/
+- [ ] COOKING
+- [ ] DRIVER LICENSE
+- [ ] JSOC BEGIN PREP CONTRIBUTE FLUX ML
+- [ ] [[CURRENT DAILY TASKS]]
+- [ ] Do 1 Game Jam

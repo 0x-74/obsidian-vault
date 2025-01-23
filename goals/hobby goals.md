@@ -1,0 +1,7 @@
+- learn to draw and make some NSFW art
+- do all the blender courses
+- do all the game dev courses
+- learn an instrument
+- WCA puzzles
+- try to compose some EDM music FL/LMMS
+- learn german and russian

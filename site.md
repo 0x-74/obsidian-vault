@@ -1,0 +1,8 @@
+- [x] vector db of all data  
+- [x] sort by programming language and framework
+- [x] sort by type of content like on google resources library
+- [x] search bar
+- [ ] ability to enter url and site and automatically generate and infer tags
+- [x] combine dropdown and search into one bar
+- [x] search for language in filters
+- [ ] remake cards using v0

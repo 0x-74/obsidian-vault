@@ -1,0 +1,4 @@
+- [LSTM](https://github.com/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%202/Emojify/Emoji_v3a.ipynb) ONNX WORD2 VEC LIB
+- SPACY ONNX
+- SYNTHETIC DATA GPT
+- LLM FOR LABELING

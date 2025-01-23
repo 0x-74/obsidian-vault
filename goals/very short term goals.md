@@ -1,0 +1,8 @@
+- complete DL specialization
+- complete learning the kaggle notebooks
+	- [CNN](https://www.kaggle.com/code/kanncaa1/pytorch-tutorial-for-deep-learning-lovers)
+	- [RNN](https://www.kaggle.com/code/kanncaa1/recurrent-neural-network-with-pytorch)
+	- [LSTM](https://www.kaggle.com/code/kanncaa1/long-short-term-memory-with-pytorch)
+	- [Time Series](https://www.kaggle.com/code/kanncaa1/time-series-prediction-tutorial-with-eda?scriptVersionId=24709907)
+- learn 5 kanji everyday till KD website is complete
+- complete the three.js small game

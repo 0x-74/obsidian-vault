@@ -1,0 +1,1 @@
+- become fluent in japanese and obtain N1+ monbukagakusho scholarship

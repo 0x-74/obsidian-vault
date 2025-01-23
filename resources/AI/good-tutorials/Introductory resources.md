@@ -1,0 +1,2 @@
+- [Practical Deep Learning](https://course.fast.ai) - a book made up of ipynb covering all the introductory coding for deep learning and also advanced topics like writing SD from scratch
+- [kaggle deep learning intro](https://www.kaggle.com/learn/intro-to-deep-learning) - Tensorflow intro

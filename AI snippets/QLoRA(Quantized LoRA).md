@@ -1,0 +1,1 @@
+- considered an upgraded version of [[LoRA (Low Rank Adaptation)]] where the 16 bits of precision is quantized to just 4 bits taking advantage of the fact that the weights lie on a normal distribution and hence can be upsampled back to 16 bits anytime. more details in [[LoRA and 4-bit quantization]] 
