@@ -1,3 +1,12 @@
+- explore react native
+- do the meta ar and vr courses
+- learn to use openGL or an graphics framework along with SDL
+- learn babylon.js and three.js better
+- get into unity and learn C#
+- learn shader development(start with minecraft preferably)
+- get okayish at web dev do pedro course on react and learn next
+- make a few emulators
+- complete beej's networking guide
 
 ### 3. Game Development
 - [Chess Engine](https://www.chessprogramming.org/Main_Page)
@@ -36,4 +45,3 @@
 - [book of shaders](https://thebookofshaders.com/01/)
 - [iquilez shader articles](https://iquilezles.org/articles/)
 - [OpenGL book](https://www.roiatalla.com/public/arcsynthesis/html/index.html)[openGL lazyfoo](https://lazyfoo.net/tutorials/OpenGL/index.php)
-- 

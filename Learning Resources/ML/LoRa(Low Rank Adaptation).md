@@ -1,3 +1,13 @@
+---
+tags:
+  - ml-technique
+  - optimization
+category: Fine-Tuning
+connections:
+  - [[QLoRA(Quantized LoRA)]]
+  - [[Fine-Tuning]]
+---
+
 - instead of training the weights the changes are tracked in two separate lower ranked (dimensionality) matrix 
 - these lower ranked matrix when multiplied result in the original dimension of the weights of the LLM.
 - these can then be added to the original weights directly

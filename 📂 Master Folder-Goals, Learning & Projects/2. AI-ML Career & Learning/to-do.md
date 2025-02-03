@@ -1,0 +1,4 @@
+- [ ] [hf-learn](https://huggingface.co/learn)
+- [x] publish AI paper & get an AI internship
+- [ ] get good at golang & flutter
+- [ ] doing DSA

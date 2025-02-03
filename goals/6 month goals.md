@@ -1,4 +1,0 @@
-- complete hf-learn resources
-- publish AI paper & get an AI internship
-- get good at golang & flutter
-- get decent at DSA
