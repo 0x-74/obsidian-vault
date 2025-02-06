@@ -1,15 +1,3 @@
-### Personal Growth & Experiences
-
-- Visit Japan with MEXT and achieve N1 in Japanese
-- Learn Japanese completely
-- Learn German and Russian to high proficiency
-- Become a Machine Learning Engineer (MLE)
-- Get financially independent
-- Spend more time with family
-- Spend time on hobbies
-- Be more social—go out, talk to people, and avoid isolation
-- Do solo trips and enjoy life
-
 ### Fitness Goals
 
 - Get below 56 kg

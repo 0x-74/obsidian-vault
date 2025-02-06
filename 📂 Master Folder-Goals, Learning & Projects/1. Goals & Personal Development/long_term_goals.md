@@ -1,1 +1,4 @@
-- become fluent in japanese and obtain N1+ monbukagakusho scholarship
+- Visit Japan with MEXT and achieve N1 in Japanese
+- Learn German and Russian to high proficiency
+- Become a Machine Learning Engineer (MLE)
+- Get financially independent
