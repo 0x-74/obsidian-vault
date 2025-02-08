@@ -34,5 +34,4 @@
 - [ ] Udemy course library
 - [ ] [0x-74 Resources](https://0x-74.netlify.app/resources/)
 - [ ] [JSOC Prep & Contribute to FLUX ML](https://fluxml.ai)
-
-
+- [Qdrant docs and articles](https://qdrant.tech/articles/)  

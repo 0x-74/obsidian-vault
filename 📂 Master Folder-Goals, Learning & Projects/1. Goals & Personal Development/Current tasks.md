@@ -32,3 +32,7 @@
 - [ ] Create a personal sticker pack
 - [ ] Design a 3D character or similar creative project
 - [ ] Complete a small **Three.js** game
+### AI/ML Projects
+- [Model Distillation Project](https://youtu.be/q5REn6OAPRg)  
+- [GPT Implementation from Scratch](https://youtu.be/kCc8FmEb1nY)  
+- Automated Obsidian updates using [REST API](https://coddingtonbear.github.io/obsidian-local-rest-api/)  

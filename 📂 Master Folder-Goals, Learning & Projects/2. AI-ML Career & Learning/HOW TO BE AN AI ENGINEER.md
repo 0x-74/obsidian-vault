@@ -2,7 +2,9 @@
 - [[Research_papers]]
 - BUILD PROJECTS YOU IMAGINE
 - GET SPECIFIC KNOWLEDGE FOR A JOB
-
+## Job Search Resources
+- [AI Jobs Network](https://aijobs.net)  
+- [Mercari Careers](https://apply.workable.com/mercari/)  
 ## MARKETING YOUR SKILLS
 - **LEARN IN PUBLIC** 
 - **BLOGS OR POSTING ONLINE EVEN IF ITS WRONG SO PEOPLE CORRECT YOU**
@@ -21,12 +23,16 @@
 ### reading
 [how to interview](https://huyenchip.com/ml-interviews-book/ )
 [what are the expectations from an ml engineer](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
+ Pinterest Engineering articles on [Medium](https://medium.com/pinterest-engineering)  
+- Company tech blogs and engineering articles  
 #### work
 - KAGGLE COMPETITIONS
 - REAL LIFE PROJECTS
 - LEETCODE/HACKERRANK/CODEFORCES using C++
 - GITHUB CONTRIBUTIONS
+- Reimplement papers on code with papers
 #### LEARNING TO DO
 - [books](https://drive.google.com/drive/folders/1iKIFh0qLi0ft1Rau8erMNsBD_nR93SV-?usp=sharing)
 - youtube playlist
 - [resources](https://docs.google.com/spreadsheets/d/13n8o6EzFytrPYlRBxkWdo0nzv6wN38xexrX18NdWHRI/edit?usp=sharing)
+- 
