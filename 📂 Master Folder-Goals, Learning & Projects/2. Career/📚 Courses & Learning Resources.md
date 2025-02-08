@@ -1,5 +1,3 @@
-# 📚 Courses & Learning Resources
-
 ## 🏗 Data Structures & Algorithms
 - [ ] DSA prerequisites on Udemy (Data Structures C/C++)
 - [ ] Thomas Cormen’s DSA book
@@ -33,5 +31,4 @@
 - [ ] Personal YouTube playlists
 - [ ] Udemy course library
 - [ ] [0x-74 Resources](https://0x-74.netlify.app/resources/)
-- [ ] [JSOC Prep & Contribute to FLUX ML](https://fluxml.ai)
 - [Qdrant docs and articles](https://qdrant.tech/articles/)  

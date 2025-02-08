@@ -1,0 +1,4 @@
+- **Books Collection**: [Google Drive Folder](https://drive.google.com/drive/folders/1iKIFh0qLi0ft1Rau8erMNsBD_nR93SV-?usp=sharing)
+- **Curated Resources**: [Google Sheets](https://docs.google.com/spreadsheets/d/13n8o6EzFytrPYlRBxkWdo0nzv6wN38xexrX18NdWHRI/edit?usp=sharing)
+- **YouTube Playlist**:[playlist](https://youtube.com/playlist?list=PLVZ5EtTuvkXDy5EUpgTm-XCcqaAC9MitI&si=yrW7V5_F_qQVdWCw)
+- **Awesome Lists**: [Awesome Resources](https://github.com/sindresorhus/awesome) 

@@ -31,8 +31,3 @@
 - LEETCODE/HACKERRANK/CODEFORCES using C++
 - GITHUB CONTRIBUTIONS
 - Reimplement papers on code with papers
-#### LEARNING TO DO
-- [books](https://drive.google.com/drive/folders/1iKIFh0qLi0ft1Rau8erMNsBD_nR93SV-?usp=sharing)
-- youtube playlist
-- [resources](https://docs.google.com/spreadsheets/d/13n8o6EzFytrPYlRBxkWdo0nzv6wN38xexrX18NdWHRI/edit?usp=sharing)
-- 

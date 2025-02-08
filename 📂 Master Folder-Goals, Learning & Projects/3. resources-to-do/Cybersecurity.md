@@ -1,0 +1,7 @@
+- **OWASP Web Security Testing Guide**: [OWASP WSTG](https://owasp.org/www-project-web-security-testing-guide/v42/)
+- **Practice Platforms**:
+  - [Hack The Box](https://www.hackthebox.com)
+  - [TryHackMe](https://tryhackme.com)
+- **Additional Resources**:
+  - [Cybrary](https://www.cybrary.it)
+  - [SecurityTube](http://www.securitytube.net)
