@@ -24,7 +24,9 @@
 [how to interview](https://huyenchip.com/ml-interviews-book/ )
 [what are the expectations from an ml engineer](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
  Pinterest Engineering articles on [Medium](https://medium.com/pinterest-engineering)  
-- Company tech blogs and engineering articles  
+- [ Company tech blogs and engineering articles](https://dev.to/seattledataguy/11-of-the-best-engineering-blogs-2aah)
+- https://engineering.atspotify.com
+- https://slack.engineering
 #### work
 - KAGGLE COMPETITIONS
 - REAL LIFE PROJECTS

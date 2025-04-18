@@ -1,24 +1,56 @@
 
 ---
-## PRIORITY
+# always make a project after each tutorial learnt
 
-- [ ] [One Semester Is All You Need](https://onesemester.tech/) (C, DevOps, Web Dev)
-- [ ]  Japanese: Achieve N3 
-- [ ]  [DataZoomCamp (Data Engineering)](https://dezoomcamp.streamlit.app/)
-- [ ]  [ArcSynthesis Tutorials](https://www.roiatalla.com/public/arcsynthesis/html/index.html)
-- [ ] [Learn OpenCV](https://github.com/spmallick/learnopencv)
-- [ ] https://nlp.stanford.edu/IR-book/
-- [ ] [Catlike-coding](https://catlikecoding.com/)
-- [ ] [Unity Learn](https://learn.unity.com)
-- [ ] [Hugging Face Courses](https://huggingface.co/learn)
-- [ ] [NLP Demystified Series](https://www.youtube.com/playlist?list=PLw3N0OFSAYSEC_XokEcX8uzJmEZSoNGuS)
-- [ ] [Fast.ai Course](https://course.fast.ai)
-- [ ] [UvA Deep Learning Course](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
-- [ ] https://iquilezles.org/articles/
-- [ ] [Stanford NLP Book](https://nlp.stanford.edu/IR-book/)
-- [ ] [PyTorch Tutorials](https://pytorch.org/tutorials/)
-- [ ] https://owasp.org/www-project-web-security-testing-guide/v42/
-- [ ] https://linuxjourney.com
+## PRIORITY
+### Graphics programming & Kernel Optim
+- [ ] [GPUMODE (Performance Computing)](https://www.youtube.com/@GPUMODE)  
+- [ ] [ArcSynthesis Tutorials](https://www.roiatalla.com/public/arcsynthesis/html/index.html) 
+- [ ] [Inigo Quilez Articles (Graphics, Math, and Shaders)](https://iquilezles.org/articles/) 
+## 🧠 Machine Learning & AI  
+- [ ] [Fast.ai Course](https://course.fast.ai)  
+- [ ] [Hugging Face Courses](https://huggingface.co/learn
+	- [ ] [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
+	- [ ] LLM Course Project
+- [ ] [UvA Deep Learning Course](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)  
+- [ ] [PyTorch Tutorials](https://pytorch.org/tutorials/)  
+- [ ] [Andrej Karpathy (AI, ML, NLP)](https://www.youtube.com/@AndrejKarpathy/videos)  
+### 🎯 Computer Vision  
+- [ ] [Learn OpenCV](https://github.com/spmallick/learnopencv)  
+
+### 🔡 Natural Language Processing (NLP)  
+- [ ] [NLP Demystified Series (YouTube)](https://www.youtube.com/playlist?list=PLw3N0OFSAYSEC_XokEcX8uzJmEZSoNGuS)  
+- [ ] [Stanford NLP Book](https://nlp.stanford.edu/IR-book/)  
+### 🤖 Reinforcement Learning  
+- [ ] [Tianshou (RL Framework)](https://tianshou.org/en/stable/)  
+## 🎮 Game Development 
+- [ ] [Catlike-coding](https://catlikecoding.com/)  
+- [ ] [LazyFoo SDL Tutorials](https://lazyfoo.net/tutorials/SDL/index.php)  
+- [ ] [Babylon.js](https://www.babylonjs.com)  
+- [ ] [Unity Learn](https://learn.unity.com)  
+- [ ] https://r3f.docs.pmnd.rs/getting-started/introduction
+ 
+
+## 💻 Programming & Software Engineering  
+- [ ] [One Semester Is All You Need](https://onesemester.tech/) (C, DevOps, Web Dev)  
+- [ ] [**Beej's Guide to C—Tutorial**](https://beej.us/guide/bgc/)  
+- [ ] [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)  
+- [ ] [Beej's Guide to System Programming](https://beej.us/guide/bgclr/)  
+- [ ] [Linux Journey](https://linuxjourney.com)  
+- [ ] [two scoops of django](https://drive.google.com/file/d/1eHe1V_pnJMPjcrkCkcSa3JL-oVVlfvKD/view?usp=sharing)
+## 🔒 Cybersecurity & Web Security  
+- [ ] [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/v42/)  
+
+## 🏗️ Data Engineering  
+- [ ] [DataZoomCamp (Data Engineering)](https://dezoomcamp.streamlit.app/)  
+
+## 🇯🇵 Japanese Language Learning  
+- [ ] Japanese: Achieve N3  
+## 🎲 Miscellaneous  
+- [ ] Tboi mods or RoR2 or TF2 mods or Minecraft mods  
+- [ ] Udemy/Coursera courses  
+
+---
 ## 1. Core Foundations (Math, CS, DSA)
 - [ ] **Mathematics for AI:**
   - [ ] Read the O'Reilly book on Mathematics for AI

@@ -1,0 +1,2 @@
+- torch tensors created from np arrays share the memory block and vice versa i.e , updating values of either one will update the other 
+- operations with a `_` suffix will make in_place changes example `x.t_()` will transpose the matrix `x` in its place
