@@ -40,7 +40,7 @@
 - [ ] [two scoops of django](https://drive.google.com/file/d/1eHe1V_pnJMPjcrkCkcSa3JL-oVVlfvKD/view?usp=sharing)
 ## 🔒 Cybersecurity & Web Security  
 - [ ] [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/v42/)  
-
+- [ ] [cs50 cybersec](https://learning.edx.org/course/course-v1:HarvardX+CS50CS+Cybersecurity/home)
 ## 🏗️ Data Engineering  
 - [ ] [DataZoomCamp (Data Engineering)](https://dezoomcamp.streamlit.app/)  
 
@@ -127,4 +127,5 @@
 
 
 ---
+
 
