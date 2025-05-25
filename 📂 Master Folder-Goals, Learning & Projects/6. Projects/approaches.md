@@ -1,0 +1,2 @@
+teacher-student = use LLM to supervise the BERT model and see if BERT predicts them correctly, update weights based on that , create a list of search terms take 5 pages of each and label each
+Synthetic data = generate tech youtube titles using gpt and mark as 1 , generate other random youtube video titles using keywords, mark as 0 , fine-tune BERT on that 

@@ -1,0 +1,5 @@
+- [dora hacks](https://dorahacks.io/hackathon)
+- [game jams](https://itch.io/jams)
+- [devfolio](https://devfolio.co/hackathons)
+- [hackquest](https://www.hackquest.io/hackathons)
+- 

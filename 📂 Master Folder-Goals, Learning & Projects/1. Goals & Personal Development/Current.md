@@ -3,6 +3,16 @@
 # always make a project after each tutorial learnt
 
 ## PRIORITY
+- [ ] [NLP SPECIALIZATION](https://www.coursera.org/programs/bachelor-of-computer-application-2nd-year-gjome/specializations/natural-language-processing?source=search)
+- [ ] DsPy BERT Classifier
+- [ ] Julia GSOC ,WasmEdge LFX ,Jam web3 SoB, LFDT hyperledger 
+
+
+
+
+
+---
+
 ### Graphics programming & Kernel Optim
 - [ ] [GPUMODE (Performance Computing)](https://www.youtube.com/@GPUMODE)  
 - [ ] [ArcSynthesis Tutorials](https://www.roiatalla.com/public/arcsynthesis/html/index.html) 
@@ -85,6 +95,7 @@
 
 
 - [ ] **Open Source & Contributions:**
+  - [ ]  [[Open Source Orgs i want to contribute to]]
   - [ ] Start JSOC Prep & contribute to [FLUX ML](https://fluxml.ai/)
   - [ ] Participate in open-source bounties
   - [ ] Make regular OSS contributions
