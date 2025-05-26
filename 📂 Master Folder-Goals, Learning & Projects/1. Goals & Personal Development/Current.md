@@ -107,7 +107,7 @@
 ## 4. Software Engineering & System-Level Knowledge
 - [ ] **DevOps, Cloud & Infrastructure:**
 
-  - [ ] Learn to agentic Dspy
+  - [x] Learn to agentic Dspy
   - [ ] [Qdrant docs and articles](https://qdrant.tech/articles/)
   - [ ] Qdrant summer of code
 
